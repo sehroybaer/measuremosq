@@ -1,2 +1,2 @@
 # measuremosq
-Mosquitto clients for measurement of properties
+Mosquitto clients for measurement of properties.
